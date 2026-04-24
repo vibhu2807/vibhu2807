@@ -37,6 +37,6 @@ show live runs on a call.
 - Site: [mintellion.com](https://mintellion.com)
 - Email: vibhu@mintellion.com
 - LinkedIn: [in/vibhupatel287](https://linkedin.com/in/vibhupatel287)
-- X: [@mintellion](https://x.com/mintellion)
+- Mintellion on LinkedIn: [linkedin.com/company/mintellion](https://linkedin.com/company/mintellion)
 
 Open to UK sponsor roles and serious automation contracts.
